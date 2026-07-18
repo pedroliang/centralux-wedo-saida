@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-17T10:29:47",
+ "generatedAt": "2026-07-18T10:09:48",
  "sourceUrl": "https://docs.google.com/spreadsheets/d/195akgdyA1wWWeTfR4MOjRb84onEb5OmPWBW13TiTBkE/edit?gid=2022201557",
  "dates": [
   "01/07",
@@ -10,26 +10,28 @@
   "07/07",
   "08/07",
   "10/07",
-  "14/07"
+  "14/07",
+  "15/07",
+  "16/07"
  ],
  "skuDesc": {
   "40": "6402",
   "5": "1949",
-  "4": "2167",
+  "4": "5742",
   "76": "2449",
   "12": "6395",
   "47": "3133",
   "30": "3167",
   "6": "2846",
-  "1": "6333",
-  "2": "3965",
+  "1": "6453",
+  "2": "4800",
   "37": "4816",
   "20": "5777",
   "28": "5616",
   "71": "5637",
   "42": "5653",
   "10": "5975",
-  "3": "5742",
+  "3": "6184",
   "35": "5758",
   "22": "5759",
   "8": "6417",
@@ -150,114 +152,19 @@
   "170": "6556",
   "115": "1773",
   "46": "5616",
-  "36": "7554-60W"
+  "36": "7554-60W",
+  "645": "6290",
+  "262": "6399",
+  "109": "6556",
+  "38": "7511",
+  "410": "6290",
+  "179": "6399",
+  "166": "6400",
+  "153": "6556",
+  "117": "2449",
+  "65": "1773"
  },
  "records": [
-  {
-   "date": "01/07",
-   "sku": "16",
-   "desc": "5975",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "01/07",
-   "sku": "1",
-   "desc": "6333",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "01/07",
-   "sku": "20",
-   "desc": "5777",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "01/07",
-   "sku": "47",
-   "desc": "3133",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "01/07",
-   "sku": "40",
-   "desc": "6402",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "01/07",
-   "sku": "8",
-   "desc": "6417",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "01/07",
-   "sku": "6",
-   "desc": "2846",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "01/07",
-   "sku": "37",
-   "desc": "4816",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "01/07",
-   "sku": "60",
-   "desc": "5777",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "01/07",
-   "sku": "212",
-   "desc": "6400",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "01/07",
-   "sku": "14",
-   "desc": "7537",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "01/07",
-   "sku": "71",
-   "desc": "5637",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "01/07",
-   "sku": "77",
-   "desc": "7537",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "01/07",
-   "sku": "30",
-   "desc": "3167",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "01/07",
-   "sku": "35",
-   "desc": "5758",
-   "soma": 0,
-   "logistics": []
-  },
   {
    "date": "01/07",
    "sku": "11",
@@ -267,92 +174,8 @@
   },
   {
    "date": "01/07",
-   "sku": "3",
-   "desc": "5742",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "01/07",
-   "sku": "630",
-   "desc": "6290",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "01/07",
-   "sku": "10",
-   "desc": "5975",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "01/07",
-   "sku": "75",
-   "desc": "6090",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "01/07",
    "sku": "2",
-   "desc": "3965",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "01/07",
-   "sku": "5",
-   "desc": "1949",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "01/07",
-   "sku": "76",
-   "desc": "2449",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "01/07",
-   "sku": "94",
-   "desc": "6556",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "01/07",
-   "sku": "4",
-   "desc": "2167",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "01/07",
-   "sku": "33",
-   "desc": "6394",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "01/07",
-   "sku": "13",
-   "desc": "5971",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "01/07",
-   "sku": "42",
-   "desc": "5653",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "01/07",
-   "sku": "49",
-   "desc": "6558",
+   "desc": "4800",
    "soma": 0,
    "logistics": []
   },
@@ -365,8 +188,148 @@
   },
   {
    "date": "01/07",
+   "sku": "3",
+   "desc": "6184",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "01/07",
+   "sku": "33",
+   "desc": "6394",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "01/07",
+   "sku": "4",
+   "desc": "5742",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "01/07",
+   "sku": "212",
+   "desc": "6400",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "01/07",
+   "sku": "77",
+   "desc": "7537",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "01/07",
+   "sku": "40",
+   "desc": "6402",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "01/07",
    "sku": "12",
    "desc": "6395",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "01/07",
+   "sku": "75",
+   "desc": "6090",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "01/07",
+   "sku": "13",
+   "desc": "5971",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "01/07",
+   "sku": "94",
+   "desc": "6556",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "01/07",
+   "sku": "1",
+   "desc": "6453",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "01/07",
+   "sku": "49",
+   "desc": "6558",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "01/07",
+   "sku": "5",
+   "desc": "1949",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "01/07",
+   "sku": "47",
+   "desc": "3133",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "01/07",
+   "sku": "60",
+   "desc": "5777",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "01/07",
+   "sku": "6",
+   "desc": "2846",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "01/07",
+   "sku": "20",
+   "desc": "5777",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "01/07",
+   "sku": "71",
+   "desc": "5637",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "01/07",
+   "sku": "630",
+   "desc": "6290",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "01/07",
+   "sku": "16",
+   "desc": "5975",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "01/07",
+   "sku": "37",
+   "desc": "4816",
    "soma": 0,
    "logistics": []
   },
@@ -378,218 +341,50 @@
    "logistics": []
   },
   {
-   "date": "02/07",
-   "sku": "16",
-   "desc": "5975",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "02/07",
-   "sku": "104",
-   "desc": "2449",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "02/07",
-   "sku": "1",
-   "desc": "6333",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "02/07",
-   "sku": "20",
-   "desc": "5777",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "02/07",
-   "sku": "160",
-   "desc": "2167",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "02/07",
-   "sku": "765",
-   "desc": "6290",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "02/07",
-   "sku": "103",
-   "desc": "7537",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "02/07",
-   "sku": "47",
-   "desc": "3133",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "02/07",
-   "sku": "7",
-   "desc": "6249",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "02/07",
-   "sku": "114",
-   "desc": "3133",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "02/07",
-   "sku": "39",
-   "desc": "5637",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "02/07",
-   "sku": "6",
-   "desc": "2846",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "02/07",
-   "sku": "60",
-   "desc": "5777",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "02/07",
-   "sku": "362",
-   "desc": "6400",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "02/07",
-   "sku": "180",
-   "desc": "1773",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "02/07",
-   "sku": "30",
-   "desc": "3167",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "02/07",
-   "sku": "52",
-   "desc": "5838",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "02/07",
+   "date": "01/07",
    "sku": "35",
    "desc": "5758",
    "soma": 0,
    "logistics": []
   },
   {
-   "date": "02/07",
-   "sku": "135",
-   "desc": "6090",
+   "date": "01/07",
+   "sku": "8",
+   "desc": "6417",
    "soma": 0,
    "logistics": []
   },
   {
-   "date": "02/07",
-   "sku": "15",
-   "desc": "4816",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "02/07",
-   "sku": "3",
-   "desc": "5742",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "02/07",
+   "date": "01/07",
    "sku": "10",
    "desc": "5975",
    "soma": 0,
    "logistics": []
   },
   {
-   "date": "02/07",
-   "sku": "2",
-   "desc": "3965",
+   "date": "01/07",
+   "sku": "76",
+   "desc": "2449",
    "soma": 0,
    "logistics": []
   },
   {
-   "date": "02/07",
-   "sku": "72",
-   "desc": "6394",
+   "date": "01/07",
+   "sku": "14",
+   "desc": "7537",
    "soma": 0,
    "logistics": []
   },
   {
-   "date": "02/07",
-   "sku": "5",
-   "desc": "1949",
+   "date": "01/07",
+   "sku": "30",
+   "desc": "3167",
    "soma": 0,
    "logistics": []
   },
   {
-   "date": "02/07",
-   "sku": "127",
-   "desc": "6558",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "02/07",
-   "sku": "29",
-   "desc": "5776",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "02/07",
-   "sku": "4",
-   "desc": "2167",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "02/07",
-   "sku": "13",
-   "desc": "5971",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "02/07",
-   "sku": "87",
-   "desc": "6556",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "02/07",
-   "sku": "61",
+   "date": "01/07",
+   "sku": "42",
    "desc": "5653",
    "soma": 0,
    "logistics": []
@@ -603,8 +398,204 @@
   },
   {
    "date": "02/07",
-   "sku": "81",
-   "desc": "6399",
+   "sku": "2",
+   "desc": "4800",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "02/07",
+   "sku": "9",
+   "desc": "7537",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "02/07",
+   "sku": "39",
+   "desc": "5637",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "02/07",
+   "sku": "114",
+   "desc": "3133",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "02/07",
+   "sku": "104",
+   "desc": "2449",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "02/07",
+   "sku": "3",
+   "desc": "6184",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "02/07",
+   "sku": "87",
+   "desc": "6556",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "02/07",
+   "sku": "4",
+   "desc": "5742",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "02/07",
+   "sku": "160",
+   "desc": "2167",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "02/07",
+   "sku": "13",
+   "desc": "5971",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "02/07",
+   "sku": "29",
+   "desc": "5776",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "02/07",
+   "sku": "1",
+   "desc": "6453",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "02/07",
+   "sku": "5",
+   "desc": "1949",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "02/07",
+   "sku": "47",
+   "desc": "3133",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "02/07",
+   "sku": "61",
+   "desc": "5653",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "02/07",
+   "sku": "72",
+   "desc": "6394",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "02/07",
+   "sku": "60",
+   "desc": "5777",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "02/07",
+   "sku": "103",
+   "desc": "7537",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "02/07",
+   "sku": "6",
+   "desc": "2846",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "02/07",
+   "sku": "15",
+   "desc": "4816",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "02/07",
+   "sku": "135",
+   "desc": "6090",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "02/07",
+   "sku": "127",
+   "desc": "6558",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "02/07",
+   "sku": "20",
+   "desc": "5777",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "02/07",
+   "sku": "16",
+   "desc": "5975",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "02/07",
+   "sku": "180",
+   "desc": "1773",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "02/07",
+   "sku": "765",
+   "desc": "6290",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "02/07",
+   "sku": "52",
+   "desc": "5838",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "02/07",
+   "sku": "362",
+   "desc": "6400",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "02/07",
+   "sku": "35",
+   "desc": "5758",
    "soma": 0,
    "logistics": []
   },
@@ -617,29 +608,36 @@
   },
   {
    "date": "02/07",
-   "sku": "9",
-   "desc": "7537",
+   "sku": "81",
+   "desc": "6399",
    "soma": 0,
    "logistics": []
   },
   {
-   "date": "03/07",
-   "sku": "16",
+   "date": "02/07",
+   "sku": "10",
    "desc": "5975",
    "soma": 0,
    "logistics": []
   },
   {
-   "date": "03/07",
-   "sku": "1",
-   "desc": "6333",
+   "date": "02/07",
+   "sku": "30",
+   "desc": "3167",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "02/07",
+   "sku": "7",
+   "desc": "6249",
    "soma": 0,
    "logistics": []
   },
   {
    "date": "03/07",
-   "sku": "20",
-   "desc": "5777",
+   "sku": "11",
+   "desc": "5637",
    "soma": 0,
    "logistics": []
   },
@@ -652,20 +650,6 @@
   },
   {
    "date": "03/07",
-   "sku": "26",
-   "desc": "5810",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "03/07",
-   "sku": "7",
-   "desc": "6249",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "03/07",
    "sku": "100",
    "desc": "2167",
    "soma": 0,
@@ -673,99 +657,8 @@
   },
   {
    "date": "03/07",
-   "sku": "146",
-   "desc": "6400",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "03/07",
-   "sku": "6",
-   "desc": "2846",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "03/07",
-   "sku": "18",
-   "desc": "6394",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "03/07",
-   "sku": "150",
-   "desc": "2449",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "03/07",
-   "sku": "14",
-   "desc": "7537",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "03/07",
-   "sku": "55",
-   "desc": "4892",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "03/07",
-   "sku": "30",
-   "desc": "3167",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "03/07",
-   "sku": "41",
-   "desc": "4703",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "03/07",
-   "sku": "35",
-   "desc": "5758",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "03/07",
-   "sku": "27",
-   "desc": "7537",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "03/07",
-   "sku": "11",
-   "desc": "5637",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "03/07",
-   "sku": "15",
-   "desc": "4816",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "03/07",
-   "sku": "3",
-   "desc": "5742",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "03/07",
-   "sku": "10",
-   "desc": "5975",
+   "sku": "2",
+   "desc": "4800",
    "soma": 0,
    "logistics": []
   },
@@ -778,34 +671,6 @@
   },
   {
    "date": "03/07",
-   "sku": "75",
-   "desc": "6090",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "03/07",
-   "sku": "2",
-   "desc": "3965",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "03/07",
-   "sku": "5",
-   "desc": "1949",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "03/07",
-   "sku": "4",
-   "desc": "2167",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "03/07",
    "sku": "87",
    "desc": "6556",
    "soma": 0,
@@ -813,29 +678,8 @@
   },
   {
    "date": "03/07",
-   "sku": "13",
-   "desc": "5971",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "03/07",
-   "sku": "49",
-   "desc": "6558",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "03/07",
-   "sku": "61",
-   "desc": "5653",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "03/07",
-   "sku": "50",
-   "desc": "6090",
+   "sku": "3",
+   "desc": "6184",
    "soma": 0,
    "logistics": []
   },
@@ -848,8 +692,120 @@
   },
   {
    "date": "03/07",
+   "sku": "4",
+   "desc": "5742",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "03/07",
+   "sku": "75",
+   "desc": "6090",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "03/07",
+   "sku": "13",
+   "desc": "5971",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "03/07",
+   "sku": "1",
+   "desc": "6453",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "03/07",
+   "sku": "41",
+   "desc": "4703",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "03/07",
+   "sku": "49",
+   "desc": "6558",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "03/07",
+   "sku": "5",
+   "desc": "1949",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "03/07",
+   "sku": "55",
+   "desc": "4892",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "03/07",
+   "sku": "61",
+   "desc": "5653",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "03/07",
+   "sku": "6",
+   "desc": "2846",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "03/07",
+   "sku": "26",
+   "desc": "5810",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "03/07",
+   "sku": "15",
+   "desc": "4816",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "03/07",
    "sku": "44",
    "desc": "6556",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "03/07",
+   "sku": "50",
+   "desc": "6090",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "03/07",
+   "sku": "27",
+   "desc": "7537",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "03/07",
+   "sku": "20",
+   "desc": "5777",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "03/07",
+   "sku": "16",
+   "desc": "5975",
    "soma": 0,
    "logistics": []
   },
@@ -861,30 +817,79 @@
    "logistics": []
   },
   {
-   "date": "04/07",
-   "sku": "3",
-   "desc": "5742",
+   "date": "03/07",
+   "sku": "35",
+   "desc": "5758",
    "soma": 0,
    "logistics": []
   },
   {
-   "date": "04/07",
-   "sku": "16",
-   "desc": "5975",
+   "date": "03/07",
+   "sku": "146",
+   "desc": "6400",
    "soma": 0,
    "logistics": []
   },
   {
-   "date": "04/07",
-   "sku": "1",
-   "desc": "6333",
+   "date": "03/07",
+   "sku": "150",
+   "desc": "2449",
    "soma": 0,
    "logistics": []
   },
   {
-   "date": "04/07",
+   "date": "03/07",
    "sku": "10",
    "desc": "5975",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "03/07",
+   "sku": "18",
+   "desc": "6394",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "03/07",
+   "sku": "14",
+   "desc": "7537",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "03/07",
+   "sku": "30",
+   "desc": "3167",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "03/07",
+   "sku": "7",
+   "desc": "6249",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "04/07",
+   "sku": "11",
+   "desc": "5637",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "04/07",
+   "sku": "2",
+   "desc": "4800",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "04/07",
+   "sku": "3",
+   "desc": "6184",
    "soma": 0,
    "logistics": []
   },
@@ -897,29 +902,22 @@
   },
   {
    "date": "04/07",
-   "sku": "2",
-   "desc": "3965",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "04/07",
-   "sku": "5",
-   "desc": "1949",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "04/07",
-   "sku": "7",
-   "desc": "6249",
+   "sku": "16",
+   "desc": "5975",
    "soma": 0,
    "logistics": []
   },
   {
    "date": "04/07",
    "sku": "4",
-   "desc": "2167",
+   "desc": "5742",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "04/07",
+   "sku": "35",
+   "desc": "5758",
    "soma": 0,
    "logistics": []
   },
@@ -932,8 +930,8 @@
   },
   {
    "date": "04/07",
-   "sku": "31",
-   "desc": "3133",
+   "sku": "1",
+   "desc": "6453",
    "soma": 0,
    "logistics": []
   },
@@ -941,6 +939,20 @@
    "date": "04/07",
    "sku": "49",
    "desc": "6558",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "04/07",
+   "sku": "10",
+   "desc": "5975",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "04/07",
+   "sku": "5",
+   "desc": "1949",
    "soma": 0,
    "logistics": []
   },
@@ -960,13 +972,20 @@
   },
   {
    "date": "04/07",
-   "sku": "35",
-   "desc": "5758",
+   "sku": "31",
+   "desc": "3133",
    "soma": 0,
    "logistics": []
   },
   {
    "date": "04/07",
+   "sku": "7",
+   "desc": "6249",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "06/07",
    "sku": "11",
    "desc": "5637",
    "soma": 0,
@@ -974,50 +993,22 @@
   },
   {
    "date": "06/07",
-   "sku": "16",
-   "desc": "5975",
+   "sku": "64",
+   "desc": "3568",
    "soma": 0,
    "logistics": []
   },
   {
    "date": "06/07",
-   "sku": "1",
-   "desc": "6333",
+   "sku": "2",
+   "desc": "4800",
    "soma": 0,
    "logistics": []
   },
   {
    "date": "06/07",
-   "sku": "20",
-   "desc": "5777",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "06/07",
-   "sku": "837",
-   "desc": "6290",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "06/07",
-   "sku": "118",
-   "desc": "2167",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "06/07",
-   "sku": "40",
-   "desc": "6402",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "06/07",
-   "sku": "7",
-   "desc": "6249",
+   "sku": "9",
+   "desc": "7537",
    "soma": 0,
    "logistics": []
   },
@@ -1030,22 +1021,15 @@
   },
   {
    "date": "06/07",
-   "sku": "31",
-   "desc": "3133",
+   "sku": "3",
+   "desc": "6184",
    "soma": 0,
    "logistics": []
   },
   {
    "date": "06/07",
-   "sku": "18",
-   "desc": "6394",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "06/07",
-   "sku": "6",
-   "desc": "2846",
+   "sku": "281",
+   "desc": "1773",
    "soma": 0,
    "logistics": []
   },
@@ -1065,29 +1049,8 @@
   },
   {
    "date": "06/07",
-   "sku": "30",
-   "desc": "3167",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "06/07",
-   "sku": "41",
-   "desc": "4703",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "06/07",
-   "sku": "79",
-   "desc": "6558",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "06/07",
-   "sku": "43",
-   "desc": "5637",
+   "sku": "4",
+   "desc": "5742",
    "soma": 0,
    "logistics": []
   },
@@ -1100,106 +1063,8 @@
   },
   {
    "date": "06/07",
-   "sku": "11",
-   "desc": "5637",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "06/07",
-   "sku": "78",
-   "desc": "5838",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "06/07",
-   "sku": "3",
-   "desc": "5742",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "06/07",
-   "sku": "10",
-   "desc": "5975",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "06/07",
-   "sku": "2",
-   "desc": "3965",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "06/07",
-   "sku": "76",
-   "desc": "2449",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "06/07",
-   "sku": "241",
-   "desc": "6400",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "06/07",
-   "sku": "5",
-   "desc": "1949",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "06/07",
-   "sku": "4",
-   "desc": "2167",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "06/07",
-   "sku": "177",
-   "desc": "6399",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "06/07",
-   "sku": "64",
-   "desc": "3568",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "06/07",
-   "sku": "97",
-   "desc": "4892",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "06/07",
-   "sku": "279",
-   "desc": "2449",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "06/07",
-   "sku": "24",
-   "desc": "5758",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "06/07",
-   "sku": "281",
-   "desc": "1773",
+   "sku": "40",
+   "desc": "6402",
    "soma": 0,
    "logistics": []
   },
@@ -1212,8 +1077,85 @@
   },
   {
    "date": "06/07",
-   "sku": "9",
-   "desc": "7537",
+   "sku": "1",
+   "desc": "6453",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "06/07",
+   "sku": "41",
+   "desc": "4703",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "06/07",
+   "sku": "5",
+   "desc": "1949",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "06/07",
+   "sku": "177",
+   "desc": "6399",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "06/07",
+   "sku": "31",
+   "desc": "3133",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "06/07",
+   "sku": "97",
+   "desc": "4892",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "06/07",
+   "sku": "6",
+   "desc": "2846",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "06/07",
+   "sku": "837",
+   "desc": "6290",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "06/07",
+   "sku": "79",
+   "desc": "6558",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "06/07",
+   "sku": "20",
+   "desc": "5777",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "06/07",
+   "sku": "16",
+   "desc": "5975",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "06/07",
+   "sku": "279",
+   "desc": "2449",
    "soma": 0,
    "logistics": []
   },
@@ -1226,50 +1168,85 @@
   },
   {
    "date": "06/07",
+   "sku": "24",
+   "desc": "5758",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "06/07",
    "sku": "194",
    "desc": "3133",
    "soma": 0,
    "logistics": []
   },
   {
-   "date": "07/07",
-   "sku": "1",
-   "desc": "6333",
+   "date": "06/07",
+   "sku": "43",
+   "desc": "5637",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "06/07",
+   "sku": "241",
+   "desc": "6400",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "06/07",
+   "sku": "118",
+   "desc": "2167",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "06/07",
+   "sku": "78",
+   "desc": "5838",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "06/07",
+   "sku": "76",
+   "desc": "2449",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "06/07",
+   "sku": "10",
+   "desc": "5975",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "06/07",
+   "sku": "18",
+   "desc": "6394",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "06/07",
+   "sku": "30",
+   "desc": "3167",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "06/07",
+   "sku": "7",
+   "desc": "6249",
    "soma": 0,
    "logistics": []
   },
   {
    "date": "07/07",
-   "sku": "20",
-   "desc": "5777",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "07/07",
-   "sku": "26",
-   "desc": "5810",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "07/07",
-   "sku": "69",
-   "desc": "6556",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "07/07",
-   "sku": "73",
-   "desc": "3133",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "07/07",
-   "sku": "40",
-   "desc": "6402",
+   "sku": "141",
+   "desc": "6399",
    "soma": 0,
    "logistics": []
   },
@@ -1282,15 +1259,155 @@
   },
   {
    "date": "07/07",
-   "sku": "74",
-   "desc": "6558",
+   "sku": "2",
+   "desc": "4800",
    "soma": 0,
    "logistics": []
   },
   {
    "date": "07/07",
-   "sku": "141",
-   "desc": "6399",
+   "sku": "566",
+   "desc": "1773",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "07/07",
+   "sku": "3",
+   "desc": "6184",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "07/07",
+   "sku": "57",
+   "desc": "5653",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "07/07",
+   "sku": "33",
+   "desc": "6394",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "07/07",
+   "sku": "25",
+   "desc": "3167",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "07/07",
+   "sku": "4",
+   "desc": "5742",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "07/07",
+   "sku": "40",
+   "desc": "6402",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "07/07",
+   "sku": "12",
+   "desc": "6395",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "07/07",
+   "sku": "1",
+   "desc": "6453",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "07/07",
+   "sku": "80",
+   "desc": "6090",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "07/07",
+   "sku": "5",
+   "desc": "1949",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "07/07",
+   "sku": "31",
+   "desc": "3133",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "07/07",
+   "sku": "69",
+   "desc": "6556",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "07/07",
+   "sku": "26",
+   "desc": "5810",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "07/07",
+   "sku": "15",
+   "desc": "4816",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "07/07",
+   "sku": "6",
+   "desc": "2846",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "07/07",
+   "sku": "90",
+   "desc": "2450",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "07/07",
+   "sku": "221",
+   "desc": "6400",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "07/07",
+   "sku": "20",
+   "desc": "5777",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "07/07",
+   "sku": "37",
+   "desc": "4816",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "07/07",
+   "sku": "107",
+   "desc": "2449",
    "soma": 0,
    "logistics": []
   },
@@ -1310,57 +1427,8 @@
   },
   {
    "date": "07/07",
-   "sku": "566",
-   "desc": "1773",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "07/07",
-   "sku": "37",
-   "desc": "4816",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "07/07",
-   "sku": "31",
-   "desc": "3133",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "07/07",
-   "sku": "221",
-   "desc": "6400",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "07/07",
-   "sku": "6",
-   "desc": "2846",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "07/07",
-   "sku": "80",
-   "desc": "6090",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "07/07",
-   "sku": "14",
-   "desc": "7537",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "07/07",
-   "sku": "25",
-   "desc": "3167",
+   "sku": "119",
+   "desc": "6291",
    "soma": 0,
    "logistics": []
   },
@@ -1373,41 +1441,6 @@
   },
   {
    "date": "07/07",
-   "sku": "15",
-   "desc": "4816",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "07/07",
-   "sku": "119",
-   "desc": "6291",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "07/07",
-   "sku": "3",
-   "desc": "5742",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "07/07",
-   "sku": "107",
-   "desc": "2449",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "07/07",
-   "sku": "90",
-   "desc": "2450",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "07/07",
    "sku": "10",
    "desc": "5975",
    "soma": 0,
@@ -1422,260 +1455,36 @@
   },
   {
    "date": "07/07",
-   "sku": "2",
-   "desc": "3965",
+   "sku": "73",
+   "desc": "3133",
    "soma": 0,
    "logistics": []
   },
   {
    "date": "07/07",
-   "sku": "5",
-   "desc": "1949",
+   "sku": "14",
+   "desc": "7537",
    "soma": 0,
    "logistics": []
   },
   {
    "date": "07/07",
-   "sku": "4",
-   "desc": "2167",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "07/07",
-   "sku": "33",
-   "desc": "6394",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "07/07",
-   "sku": "12",
-   "desc": "6395",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "07/07",
-   "sku": "57",
-   "desc": "5653",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "08/07",
-   "sku": "1",
-   "desc": "6333",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "08/07",
-   "sku": "20",
-   "desc": "5777",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "08/07",
-   "sku": "95",
-   "desc": "2450",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "08/07",
-   "sku": "34",
-   "desc": "5776",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "08/07",
-   "sku": "40",
-   "desc": "6402",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "08/07",
-   "sku": "7",
-   "desc": "6249",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "08/07",
-   "sku": "8",
-   "desc": "6417",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "08/07",
-   "sku": "70",
-   "desc": "3167",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "08/07",
-   "sku": "51",
-   "desc": "6394",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "08/07",
-   "sku": "60",
-   "desc": "5777",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "08/07",
-   "sku": "37",
-   "desc": "4816",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "08/07",
-   "sku": "18",
-   "desc": "6394",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "08/07",
-   "sku": "6",
-   "desc": "2846",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "08/07",
-   "sku": "67",
-   "desc": "5838",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "08/07",
-   "sku": "30",
-   "desc": "3167",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "08/07",
-   "sku": "278",
-   "desc": "6400",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "08/07",
-   "sku": "110",
-   "desc": "6090",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "08/07",
-   "sku": "3",
-   "desc": "5742",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "08/07",
-   "sku": "90",
-   "desc": "2450",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "08/07",
-   "sku": "10",
-   "desc": "5975",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "08/07",
-   "sku": "83",
-   "desc": "6394",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "08/07",
-   "sku": "75",
-   "desc": "6090",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "08/07",
-   "sku": "2",
-   "desc": "3965",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "08/07",
-   "sku": "5",
-   "desc": "1949",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "08/07",
-   "sku": "125",
-   "desc": "2449",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "08/07",
-   "sku": "17",
-   "desc": "7554-60W",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "08/07",
-   "sku": "209",
-   "desc": "6399",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "08/07",
-   "sku": "4",
-   "desc": "2167",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "08/07",
-   "sku": "105",
+   "sku": "74",
    "desc": "6558",
    "soma": 0,
    "logistics": []
   },
   {
    "date": "08/07",
-   "sku": "50",
-   "desc": "6090",
+   "sku": "984",
+   "desc": "6290",
    "soma": 0,
    "logistics": []
   },
   {
    "date": "08/07",
-   "sku": "165",
-   "desc": "1773",
+   "sku": "2",
+   "desc": "4800",
    "soma": 0,
    "logistics": []
   },
@@ -1688,8 +1497,106 @@
   },
   {
    "date": "08/07",
+   "sku": "3",
+   "desc": "6184",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "08/07",
+   "sku": "51",
+   "desc": "6394",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "08/07",
+   "sku": "4",
+   "desc": "5742",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "08/07",
+   "sku": "40",
+   "desc": "6402",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "08/07",
+   "sku": "67",
+   "desc": "5838",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "08/07",
+   "sku": "75",
+   "desc": "6090",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "08/07",
    "sku": "12",
    "desc": "6395",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "08/07",
+   "sku": "95",
+   "desc": "2450",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "08/07",
+   "sku": "209",
+   "desc": "6399",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "08/07",
+   "sku": "1",
+   "desc": "6453",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "08/07",
+   "sku": "110",
+   "desc": "6090",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "08/07",
+   "sku": "5",
+   "desc": "1949",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "08/07",
+   "sku": "60",
+   "desc": "5777",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "08/07",
+   "sku": "34",
+   "desc": "5776",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "08/07",
+   "sku": "278",
+   "desc": "6400",
    "soma": 0,
    "logistics": []
   },
@@ -1702,8 +1609,407 @@
   },
   {
    "date": "08/07",
-   "sku": "984",
+   "sku": "6",
+   "desc": "2846",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "08/07",
+   "sku": "90",
+   "desc": "2450",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "08/07",
+   "sku": "125",
+   "desc": "2449",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "08/07",
+   "sku": "50",
+   "desc": "6090",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "08/07",
+   "sku": "20",
+   "desc": "5777",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "08/07",
+   "sku": "105",
+   "desc": "6558",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "08/07",
+   "sku": "70",
+   "desc": "3167",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "08/07",
+   "sku": "37",
+   "desc": "4816",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "08/07",
+   "sku": "8",
+   "desc": "6417",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "08/07",
+   "sku": "10",
+   "desc": "5975",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "08/07",
+   "sku": "17",
+   "desc": "7554-60W",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "08/07",
+   "sku": "83",
+   "desc": "6394",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "08/07",
+   "sku": "18",
+   "desc": "6394",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "08/07",
+   "sku": "30",
+   "desc": "3167",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "08/07",
+   "sku": "7",
+   "desc": "6249",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "08/07",
+   "sku": "165",
+   "desc": "1773",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "10/07",
+   "sku": "11",
+   "desc": "5637",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "10/07",
+   "sku": "145",
+   "desc": "3167",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "10/07",
+   "sku": "89",
+   "desc": "7512",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "10/07",
+   "sku": "2",
+   "desc": "4800",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "10/07",
+   "sku": "318",
+   "desc": "6399",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "10/07",
+   "sku": "22",
+   "desc": "5759",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "10/07",
+   "sku": "45",
+   "desc": "5726",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "10/07",
+   "sku": "39",
+   "desc": "5637",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "10/07",
+   "sku": "9",
+   "desc": "7537",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "10/07",
+   "sku": "3",
+   "desc": "6184",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "10/07",
+   "sku": "341",
+   "desc": "1773",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "10/07",
+   "sku": "134",
+   "desc": "2449",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "10/07",
+   "sku": "25",
+   "desc": "3167",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "10/07",
+   "sku": "62",
+   "desc": "5653",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "10/07",
+   "sku": "4",
+   "desc": "5742",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "10/07",
+   "sku": "32",
+   "desc": "5810",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "10/07",
+   "sku": "85",
+   "desc": "6090",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "10/07",
+   "sku": "40",
+   "desc": "6402",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "10/07",
+   "sku": "98",
+   "desc": "6558",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "10/07",
+   "sku": "12",
+   "desc": "6395",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "10/07",
+   "sku": "13",
+   "desc": "5971",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "10/07",
+   "sku": "95",
+   "desc": "2450",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "10/07",
+   "sku": "202",
+   "desc": "6556",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "10/07",
+   "sku": "1",
+   "desc": "6453",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "10/07",
+   "sku": "209",
+   "desc": "6399",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "10/07",
+   "sku": "110",
+   "desc": "6090",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "10/07",
+   "sku": "49",
+   "desc": "6558",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "10/07",
+   "sku": "23",
+   "desc": "6062",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "10/07",
+   "sku": "5",
+   "desc": "1949",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "10/07",
+   "sku": "53",
+   "desc": "5810",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "10/07",
+   "sku": "286",
+   "desc": "6399",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "10/07",
+   "sku": "365",
+   "desc": "1773",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "10/07",
+   "sku": "34",
+   "desc": "5776",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "10/07",
+   "sku": "66",
+   "desc": "5653",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "10/07",
+   "sku": "15",
+   "desc": "4816",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "10/07",
+   "sku": "6",
+   "desc": "2846",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "10/07",
+   "sku": "90",
+   "desc": "2450",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "10/07",
+   "sku": "86",
+   "desc": "3133",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "10/07",
+   "sku": "360",
+   "desc": "6400",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "10/07",
+   "sku": "1050",
    "desc": "6290",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "10/07",
+   "sku": "960",
+   "desc": "6290",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "10/07",
+   "sku": "50",
+   "desc": "6090",
    "soma": 0,
    "logistics": []
   },
@@ -1723,127 +2029,8 @@
   },
   {
    "date": "10/07",
-   "sku": "145",
-   "desc": "3167",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "10/07",
-   "sku": "1",
-   "desc": "6333",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "10/07",
-   "sku": "95",
-   "desc": "2450",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "10/07",
-   "sku": "365",
-   "desc": "1773",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "10/07",
-   "sku": "286",
-   "desc": "6399",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "10/07",
-   "sku": "45",
-   "desc": "5726",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "10/07",
-   "sku": "34",
-   "desc": "5776",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "10/07",
-   "sku": "40",
-   "desc": "6402",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "10/07",
    "sku": "7",
    "desc": "6249",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "10/07",
-   "sku": "39",
-   "desc": "5637",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "10/07",
-   "sku": "37",
-   "desc": "4816",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "10/07",
-   "sku": "6",
-   "desc": "2846",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "10/07",
-   "sku": "89",
-   "desc": "7512",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "10/07",
-   "sku": "202",
-   "desc": "6556",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "10/07",
-   "sku": "14",
-   "desc": "7537",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "10/07",
-   "sku": "168",
-   "desc": "2449",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "10/07",
-   "sku": "25",
-   "desc": "3167",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "10/07",
-   "sku": "417",
-   "desc": "6400",
    "soma": 0,
    "logistics": []
   },
@@ -1856,274 +2043,15 @@
   },
   {
    "date": "10/07",
-   "sku": "318",
-   "desc": "6399",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "10/07",
-   "sku": "960",
-   "desc": "6290",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "10/07",
-   "sku": "341",
-   "desc": "1773",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "10/07",
-   "sku": "110",
-   "desc": "6090",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "10/07",
-   "sku": "85",
-   "desc": "6090",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "10/07",
-   "sku": "11",
-   "desc": "5637",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "10/07",
-   "sku": "15",
+   "sku": "37",
    "desc": "4816",
    "soma": 0,
    "logistics": []
   },
   {
    "date": "10/07",
-   "sku": "101",
-   "desc": "7511",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "10/07",
-   "sku": "119",
-   "desc": "6291",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "10/07",
-   "sku": "78",
-   "desc": "5838",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "10/07",
-   "sku": "3",
-   "desc": "5742",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "10/07",
-   "sku": "90",
-   "desc": "2450",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "10/07",
-   "sku": "10",
-   "desc": "5975",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "10/07",
-   "sku": "62",
-   "desc": "5653",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "10/07",
-   "sku": "83",
-   "desc": "6394",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "10/07",
-   "sku": "86",
-   "desc": "3133",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "10/07",
-   "sku": "23",
-   "desc": "6062",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "10/07",
-   "sku": "2",
-   "desc": "3965",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "10/07",
-   "sku": "53",
-   "desc": "5810",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "10/07",
-   "sku": "5",
-   "desc": "1949",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "10/07",
-   "sku": "17",
-   "desc": "7554-60W",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "10/07",
-   "sku": "209",
-   "desc": "6399",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "10/07",
-   "sku": "98",
-   "desc": "6558",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "10/07",
-   "sku": "4",
-   "desc": "2167",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "10/07",
-   "sku": "21",
-   "desc": "5776",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "10/07",
-   "sku": "35",
-   "desc": "5758",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "10/07",
-   "sku": "13",
-   "desc": "5971",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "10/07",
-   "sku": "360",
-   "desc": "6400",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "10/07",
-   "sku": "49",
-   "desc": "6558",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "10/07",
-   "sku": "81",
-   "desc": "6399",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "10/07",
-   "sku": "50",
-   "desc": "6090",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "10/07",
-   "sku": "32",
-   "desc": "5810",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "10/07",
-   "sku": "24",
-   "desc": "5758",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "10/07",
-   "sku": "22",
-   "desc": "5759",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "10/07",
-   "sku": "1050",
-   "desc": "6290",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "10/07",
-   "sku": "12",
-   "desc": "6395",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "10/07",
-   "sku": "134",
+   "sku": "168",
    "desc": "2449",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "10/07",
-   "sku": "68",
-   "desc": "5616",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "10/07",
-   "sku": "9",
-   "desc": "7537",
    "soma": 0,
    "logistics": []
   },
@@ -2136,22 +2064,218 @@
   },
   {
    "date": "10/07",
-   "sku": "66",
-   "desc": "5653",
+   "sku": "35",
+   "desc": "5758",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "10/07",
+   "sku": "24",
+   "desc": "5758",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "10/07",
+   "sku": "81",
+   "desc": "6399",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "10/07",
+   "sku": "119",
+   "desc": "6291",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "10/07",
+   "sku": "21",
+   "desc": "5776",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "10/07",
+   "sku": "78",
+   "desc": "5838",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "10/07",
+   "sku": "10",
+   "desc": "5975",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "10/07",
+   "sku": "417",
+   "desc": "6400",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "10/07",
+   "sku": "17",
+   "desc": "7554-60W",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "10/07",
+   "sku": "83",
+   "desc": "6394",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "10/07",
+   "sku": "14",
+   "desc": "7537",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "10/07",
+   "sku": "68",
+   "desc": "5616",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "10/07",
+   "sku": "101",
+   "desc": "7511",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "14/07",
+   "sku": "545",
+   "desc": "6290",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "14/07",
+   "sku": "2",
+   "desc": "4800",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "14/07",
+   "sku": "9",
+   "desc": "7537",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "14/07",
+   "sku": "3",
+   "desc": "6184",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "14/07",
+   "sku": "19",
+   "desc": "5838",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "14/07",
+   "sku": "348",
+   "desc": "6399",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "14/07",
+   "sku": "25",
+   "desc": "3167",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "14/07",
+   "sku": "4",
+   "desc": "5742",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "14/07",
+   "sku": "77",
+   "desc": "7537",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "14/07",
+   "sku": "12",
+   "desc": "6395",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "14/07",
+   "sku": "13",
+   "desc": "5971",
    "soma": 0,
    "logistics": []
   },
   {
    "date": "14/07",
    "sku": "1",
-   "desc": "6333",
+   "desc": "6453",
    "soma": 0,
    "logistics": []
   },
   {
    "date": "14/07",
-   "sku": "20",
-   "desc": "5777",
+   "sku": "110",
+   "desc": "6090",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "14/07",
+   "sku": "80",
+   "desc": "6090",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "14/07",
+   "sku": "5",
+   "desc": "1949",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "14/07",
+   "sku": "61",
+   "desc": "5653",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "14/07",
+   "sku": "55",
+   "desc": "4892",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "14/07",
+   "sku": "31",
+   "desc": "3133",
    "soma": 0,
    "logistics": []
   },
@@ -2171,64 +2295,8 @@
   },
   {
    "date": "14/07",
-   "sku": "7",
-   "desc": "6249",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "14/07",
-   "sku": "545",
-   "desc": "6290",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "14/07",
-   "sku": "348",
-   "desc": "6399",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "14/07",
-   "sku": "247",
-   "desc": "6400",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "14/07",
-   "sku": "115",
-   "desc": "1773",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "14/07",
-   "sku": "70",
-   "desc": "3167",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "14/07",
-   "sku": "8",
-   "desc": "6417",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "14/07",
-   "sku": "31",
-   "desc": "3133",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "14/07",
-   "sku": "18",
-   "desc": "6394",
+   "sku": "15",
+   "desc": "4816",
    "soma": 0,
    "logistics": []
   },
@@ -2241,42 +2309,7 @@
   },
   {
    "date": "14/07",
-   "sku": "80",
-   "desc": "6090",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "14/07",
-   "sku": "77",
-   "desc": "7537",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "14/07",
-   "sku": "55",
-   "desc": "4892",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "14/07",
-   "sku": "25",
-   "desc": "3167",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "14/07",
-   "sku": "35",
-   "desc": "5758",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "14/07",
-   "sku": "110",
+   "sku": "50",
    "desc": "6090",
    "soma": 0,
    "logistics": []
@@ -2290,22 +2323,36 @@
   },
   {
    "date": "14/07",
-   "sku": "15",
-   "desc": "4816",
+   "sku": "20",
+   "desc": "5777",
    "soma": 0,
    "logistics": []
   },
   {
    "date": "14/07",
-   "sku": "119",
-   "desc": "6291",
+   "sku": "247",
+   "desc": "6400",
    "soma": 0,
    "logistics": []
   },
   {
    "date": "14/07",
-   "sku": "3",
-   "desc": "5742",
+   "sku": "70",
+   "desc": "3167",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "14/07",
+   "sku": "35",
+   "desc": "5758",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "14/07",
+   "sku": "8",
+   "desc": "6417",
    "soma": 0,
    "logistics": []
   },
@@ -2318,29 +2365,8 @@
   },
   {
    "date": "14/07",
-   "sku": "10",
-   "desc": "5975",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "14/07",
-   "sku": "2",
-   "desc": "3965",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "14/07",
-   "sku": "5",
-   "desc": "1949",
-   "soma": 0,
-   "logistics": []
-  },
-  {
-   "date": "14/07",
-   "sku": "4",
-   "desc": "2167",
+   "sku": "119",
+   "desc": "6291",
    "soma": 0,
    "logistics": []
   },
@@ -2353,43 +2379,498 @@
   },
   {
    "date": "14/07",
-   "sku": "13",
-   "desc": "5971",
+   "sku": "10",
+   "desc": "5975",
    "soma": 0,
    "logistics": []
   },
   {
    "date": "14/07",
-   "sku": "61",
-   "desc": "5653",
+   "sku": "18",
+   "desc": "6394",
    "soma": 0,
    "logistics": []
   },
   {
    "date": "14/07",
-   "sku": "50",
-   "desc": "6090",
+   "sku": "115",
+   "desc": "1773",
    "soma": 0,
    "logistics": []
   },
   {
    "date": "14/07",
+   "sku": "7",
+   "desc": "6249",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "15/07",
+   "sku": "11",
+   "desc": "5637",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "15/07",
+   "sku": "545",
+   "desc": "6290",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "15/07",
+   "sku": "100",
+   "desc": "2167",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "15/07",
+   "sku": "2",
+   "desc": "4800",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "15/07",
+   "sku": "45",
+   "desc": "5726",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "15/07",
+   "sku": "3",
+   "desc": "6184",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "15/07",
    "sku": "19",
    "desc": "5838",
    "soma": 0,
    "logistics": []
   },
   {
-   "date": "14/07",
+   "date": "15/07",
+   "sku": "38",
+   "desc": "7511",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "15/07",
+   "sku": "262",
+   "desc": "6399",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "15/07",
+   "sku": "4",
+   "desc": "5742",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "15/07",
+   "sku": "32",
+   "desc": "5810",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "15/07",
+   "sku": "40",
+   "desc": "6402",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "15/07",
    "sku": "12",
    "desc": "6395",
    "soma": 0,
    "logistics": []
   },
   {
-   "date": "14/07",
+   "date": "15/07",
+   "sku": "1",
+   "desc": "6453",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "15/07",
+   "sku": "47",
+   "desc": "3133",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "15/07",
+   "sku": "5",
+   "desc": "1949",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "15/07",
+   "sku": "55",
+   "desc": "4892",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "15/07",
+   "sku": "97",
+   "desc": "4892",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "15/07",
+   "sku": "26",
+   "desc": "5810",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "15/07",
+   "sku": "15",
+   "desc": "4816",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "15/07",
+   "sku": "109",
+   "desc": "6556",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "15/07",
+   "sku": "90",
+   "desc": "2450",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "15/07",
+   "sku": "6",
+   "desc": "2846",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "15/07",
+   "sku": "50",
+   "desc": "6090",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "15/07",
+   "sku": "27",
+   "desc": "7537",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "15/07",
+   "sku": "20",
+   "desc": "5777",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "15/07",
+   "sku": "16",
+   "desc": "5975",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "15/07",
+   "sku": "37",
+   "desc": "4816",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "15/07",
+   "sku": "645",
+   "desc": "6290",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "15/07",
+   "sku": "10",
+   "desc": "5975",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "15/07",
+   "sku": "14",
+   "desc": "7537",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "15/07",
+   "sku": "30",
+   "desc": "3167",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "16/07",
+   "sku": "65",
+   "desc": "1773",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "16/07",
+   "sku": "11",
+   "desc": "5637",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "16/07",
+   "sku": "89",
+   "desc": "7512",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "16/07",
+   "sku": "2",
+   "desc": "4800",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "16/07",
+   "sku": "22",
+   "desc": "5759",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "16/07",
+   "sku": "45",
+   "desc": "5726",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "16/07",
+   "sku": "39",
+   "desc": "5637",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "16/07",
    "sku": "9",
    "desc": "7537",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "16/07",
+   "sku": "3",
+   "desc": "6184",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "16/07",
+   "sku": "38",
+   "desc": "7511",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "16/07",
+   "sku": "51",
+   "desc": "6394",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "16/07",
+   "sku": "179",
+   "desc": "6399",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "16/07",
+   "sku": "25",
+   "desc": "3167",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "16/07",
+   "sku": "166",
+   "desc": "6400",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "16/07",
+   "sku": "4",
+   "desc": "5742",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "16/07",
+   "sku": "32",
+   "desc": "5810",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "16/07",
+   "sku": "40",
+   "desc": "6402",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "16/07",
+   "sku": "12",
+   "desc": "6395",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "16/07",
+   "sku": "410",
+   "desc": "6290",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "16/07",
+   "sku": "1",
+   "desc": "6453",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "16/07",
+   "sku": "5",
+   "desc": "1949",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "16/07",
+   "sku": "26",
+   "desc": "5810",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "16/07",
+   "sku": "6",
+   "desc": "2846",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "16/07",
+   "sku": "50",
+   "desc": "6090",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "16/07",
+   "sku": "27",
+   "desc": "7537",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "16/07",
+   "sku": "20",
+   "desc": "5777",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "16/07",
+   "sku": "70",
+   "desc": "3167",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "16/07",
+   "sku": "35",
+   "desc": "5758",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "16/07",
+   "sku": "8",
+   "desc": "6417",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "16/07",
+   "sku": "117",
+   "desc": "2449",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "16/07",
+   "sku": "153",
+   "desc": "6556",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "16/07",
+   "sku": "10",
+   "desc": "5975",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "16/07",
+   "sku": "30",
+   "desc": "3167",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "16/07",
+   "sku": "7",
+   "desc": "6249",
+   "soma": 0,
+   "logistics": []
+  },
+  {
+   "date": "16/07",
+   "sku": "42",
+   "desc": "5653",
    "soma": 0,
    "logistics": []
   }
